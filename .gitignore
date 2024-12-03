@@ -3,3 +3,4 @@ target/
 Makefile
 .cache/
 compile_commands.json
+*.log
